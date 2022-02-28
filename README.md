@@ -2,7 +2,7 @@
 
 **Topic:** Regression of continuous variable
 
-**Date:** February 2021
+**Date:** February 2022
 
 **Team:** Alone
 
